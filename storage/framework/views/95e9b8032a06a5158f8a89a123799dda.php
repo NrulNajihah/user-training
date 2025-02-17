@@ -1,0 +1,1 @@
+<?php /**PATH C:\inetpub\wwwroot\project\resources\views/nav.blade.php ENDPATH**/ ?>
